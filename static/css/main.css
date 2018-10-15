@@ -119,7 +119,7 @@ body {
 .panel-default h6 {
   font-size: 15px;
 }
-.panel-default h4 a, h5 a {
+.panel-default h4 a, h5 a, h5 span {
   color: #27A822;
 }
 .panel-default h4 a:hover, h5 a:hover {
